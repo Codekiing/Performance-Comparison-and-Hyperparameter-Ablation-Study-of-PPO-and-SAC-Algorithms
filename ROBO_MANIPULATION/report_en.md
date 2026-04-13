@@ -1,8 +1,6 @@
 # Experimental Report on Continuous Control for Robotic Arm using Reinforcement Learning
 **—— Performance Comparison and Hyperparameter Ablation Study of PPO and SAC Algorithms**
 
-#### ZhengTianxin 225040270
-
 ## 1. Experimental Background and Task Introduction
 
 ### 1.1 Codebase and Experiment Summary
